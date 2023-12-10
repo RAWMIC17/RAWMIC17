@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://RAWMIC17.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)]([https://RAWMIC17.io](https://github.com/RAWMIC17))
 <h1 align="center">Hi 👋, I'm Harsh Kumar Singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
