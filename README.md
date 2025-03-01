@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Chatting App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAWMIC17?tab=repositories](https://github.com/RAWMIC17?tab=repositories)
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **Android, Backend**
 
 - 📫 How to reach me **hks1710harsh@gmail.com**
 
