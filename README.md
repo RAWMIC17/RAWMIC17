@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/RAWMIC17)
 <h1 align="center">Hi 👋, I'm Harsh Kumar Singh</h1>
-<!-<h3 align="center">A passionate Android developer from India</h3>->
+
 
 <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" align="right" alt="coding" width="400">
  
