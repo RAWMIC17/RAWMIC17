@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Chatting App**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAWMIC17?tab=repositories](https://github.com/RAWMIC17?tab=repositories)
 
